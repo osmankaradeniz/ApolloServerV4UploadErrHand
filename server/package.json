@@ -1,0 +1,26 @@
+{
+  "name": "graphqlapollov4upload",
+  "version": "1.0.0",
+  "description": "Apollo v4 Graphql API upload to server file or image project example.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.9.2",
+    "@graphql-tools/merge": "^9.0.0",
+    "@graphql-tools/schema": "^10.0.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "graphql": "^16.8.0",
+    "graphql-middleware": "^6.1.35",
+    "graphql-scalars": "^1.22.2",
+    "graphql-tag": "^2.12.6",
+    "graphql-upload": "^15.0.2"
+  }
+}
