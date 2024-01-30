@@ -80,17 +80,18 @@ Paketler ;
 
 ### incelediğim birkaç kaynak ;
 #### Server
- [https://github.com/jaydenseric/graphql-upload/issues/45](https://github.com/jaydenseric/graphql-upload/issues/45)
- [https://github.com/jaydenseric/graphql-upload/issues/246](https://github.com/jaydenseric/graphql-upload/issues/246)
- [https://github.com/jaydenseric/graphql-upload/issues/274](https://github.com/jaydenseric/graphql-upload/issues/274)
- [https://github.com/jaydenseric/graphql-upload/issues/218](https://github.com/jaydenseric/graphql-upload/issues/218)
- [https://www.apollographql.com/docs/apollo-server/v3/data/file-uploads/#integrating-with-fastify](https://www.apollographql.com/docs/apollo-server/v3/data/file-uploads/#integrating-with-fastify)
+ - [https://github.com/jaydenseric/graphql-upload/issues/45](https://github.com/jaydenseric/graphql-upload/issues/45)
+ - [https://github.com/jaydenseric/graphql-upload/issues/246](https://github.com/jaydenseric/graphql-upload/issues/246)
+ - [https://github.com/jaydenseric/graphql-upload/issues/274](https://github.com/jaydenseric/graphql-upload/issues/274)
+ - [https://github.com/jaydenseric/graphql-upload/issues/218](https://github.com/jaydenseric/graphql-upload/issues/218)
+ - [https://www.apollographql.com/docs/apollo-server/v3/data/file-uploads/#integrating-with-fastify](https://www.apollographql.com/docs/apollo-server/v3/data/file-uploads/#integrating-with-fastify)
 
 #### Client
- [https://www.apollographql.com/docs/react/data/file-uploads/](https://www.apollographql.com/docs/react/data/file-uploads/)
- [https://github.com/jaydenseric/apollo-upload-client](https://github.com/jaydenseric/apollo-upload-client)
- [https://gist.github.com/alexandrebodin/fedc71c8513bfbb6283cc90ae62755c5](https://gist.github.com/alexandrebodin/fedc71c8513bfbb6283cc90ae62755c5)
- [https://github.com/jaydenseric/apollo-upload-examples/blob/master/app/pages/_app.mjs](https://github.com/jaydenseric/apollo-upload-examples/blob/master/app/pages/_app.mjs)
+ - [https://www.apollographql.com/docs/react/data/file-uploads/](https://www.apollographql.com/docs/react/data/file-uploads/)
+ - [https://github.com/jaydenseric/apollo-upload-client](https://github.com/jaydenseric/apollo-upload-client)
+ - [https://gist.github.com/alexandrebodin/fedc71c8513bfbb6283cc90ae62755c5](https://gist.github.com/alexandrebodin/fedc71c8513bfbb6283cc90ae62755c5)
+ - [https://github.com/jaydenseric/apollo-upload-examples/blob/master/app/pages/_app.mjs](https://github.com/jaydenseric/apollo-upload-examples/blob/master/app/pages/_app.mjs)
 
 #### Diğer
-[https://stackoverflow.com/questions/64658321/variable-file-got-invalid-value-upload-value-invalid](https://stackoverflow.com/questions/64658321/variable-file-got-invalid-value-upload-value-invalid)
+- [GraphQL File Upload (with React & Apollo) youtube](https://www.youtube.com/watch?v=BcZ_ItGplfE)
+- [https://stackoverflow.com/questions/64658321/variable-file-got-invalid-value-upload-value-invalid](https://stackoverflow.com/questions/64658321/variable-file-got-invalid-value-upload-value-invalid)
